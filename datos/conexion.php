@@ -5,10 +5,10 @@
     private $pdo;
 
     private $driver='mysql';
-    private $host='localhost';
-    private $user='root';
-    private $pass='';
-    private $dbName='reservas-hotel-lite';
+    private $host='sql10.freemysqlhosting.net';
+    private $user='sql10617482';
+    private $pass='5XmCCvUppG';
+    private $dbName='sql10617482';
     private $charset='utf8';
     
     //patron singleton
